@@ -2,8 +2,24 @@ body {
     background-color: pink;
 }
 
+.container {
+    width: 300px;
+    margin: 0px auto;
+    background-color: rgb(152, 139, 197);
+    padding: 0px 10px;
+}
+
 h1  {
+    padding-top: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    margin-top: -30px;
+}
+
+.pad {
+    padding: 10px;
 }
 
 #mac {
@@ -12,8 +28,10 @@ h1  {
 
 #rice {
     color: yellow;
+    margin-left: 40px;
 }
 
 #cauliflower {
     color: green;
+    margin-left: 80px;
 }
